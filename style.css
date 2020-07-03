@@ -1,0 +1,99 @@
+.div-header {
+    margin-left: 100px;
+    margin-top: 20px;
+}
+
+.header-item {
+    margin-left: 50px;
+    font-size: 22px;
+    font-family: monospace;
+    text-align: center;
+    color: #004080;
+
+}
+
+.content-div {
+    margin-left: 500px;
+    margin-top: 80px;
+    font-size: 25px;
+    font-style: italic;
+    font-family: fantasy;
+}
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .topnav {
+    overflow: hidden;
+    background-color: #d1e8ff;
+  }
+  
+  .topnav a {
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 25px 22px;
+    text-decoration: none;
+    font-size: 19px;
+    font-family: monospace;
+    color: black;
+}
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .topnav a.active {
+    background-color: #2196F3;
+    color: white;
+  }
+  
+  .topnav .search-container {
+    float: right;
+  }
+  .topnav .logo-container {
+    float: left;
+  }
+  
+  .topnav input[type=text] {
+    padding: 6px;
+    margin-top: 20px;
+    font-size: 15px;
+    border: none;
+}
+  
+  .topnav .search-container button {
+    float: right;
+    padding: 6px 10px;
+    margin-top: 20px;
+    margin-right: 16px;
+    background: #ddd;
+    font-size: 17px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .topnav .search-container button:hover {
+    background: #ccc;
+  }
+  
+  @media screen and (max-width: 600px) {
+    .topnav .search-container {
+      float: none;
+    }
+    .topnav a, .topnav input[type=text], .topnav .search-container button {
+      float: none;
+      display: block;
+      text-align: left;
+      width: 100%;
+      margin: 0;
+      padding: 14px;
+    }
+    .topnav input[type=text] {
+      border: 1px solid #ccc;  
+    }
+  }
