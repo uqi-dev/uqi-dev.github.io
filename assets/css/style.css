@@ -1,0 +1,220 @@
+
+/*-------- Global Styling ----------*/
+*{
+	margin: 0;
+	padding: 0;
+	outline: 0;
+	box-sizing: border-box;
+}
+
+html{
+  scroll-behavior: smooth;
+}
+
+body{
+  font-family: 'Yantramanav', sans-serif;
+}
+
+/****** Header *****/
+
+/*.main-header{
+   background-color: #3AAA6E;
+   color: #fff;
+}*/
+
+header .navbar{
+  background-image: linear-gradient(rgba(0, 0, 0, 0.78) 0%, rgba(0, 0, 0, 0.36) 53%, transparent 100%);
+  padding: 20px 0;
+  transition: all 0.5s ease-in-out;
+}
+
+header .top-nav{
+  /*background-color: #3AAA6E;*/
+  padding: 5px 0;
+}
+
+header .navbar .navbar-brand{
+  font-family: 'Big Shoulders Stencil Text', cursive;
+  font-size: 30px;
+}
+
+header .navbar-nav .nav-item .nav-link{
+  margin: 0 3px;
+  padding: 15px;
+  color: #fff;
+  font-size: 13px;
+  font-weight: 500;
+  transition: all 0.4s;
+  letter-spacing: 2px;
+}
+
+header .navbar-nav .nav-item .nav-link:hover{
+  color: #3AAA6E;
+}
+
+
+
+/****** Header End *****/
+
+/****** Banner Area *****/
+#banner{
+  height: 100vh;
+  background: url(../../assets/img/4.jpg);
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  position: relative;
+  z-index: 1;
+}
+
+.banner-text{
+  height: 100vh;
+  color: #fff;
+}
+
+.banner-text h1{
+  font-size: 53px;
+  font-weight: 300;
+  letter-spacing: 1px;
+  line-height: 60px;
+  color: #ece4e4;
+}
+.bg-overlay{
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(15, 5, 20, 0.4);
+  z-index: -1;
+}
+
+/****** Banner Area End *****/
+
+/****** About Area *****/
+
+#about-section{
+  padding: 70px 0;
+}
+
+#about-section .about-text h5{
+  font-size: 12px;
+  font-weight: 400;
+  color: #999;
+}
+#about-section .about-text h2{
+  font-size: 35px;
+  font-weight: 600;
+  margin: 30px 0;
+  color: #675e5e;
+  letter-spacing: 1px;
+}
+
+#about-section .about-text p{
+  font-size: 16px;
+  font-weight: 400;
+  color: #333;
+  line-height: 30px;
+}
+
+
+/****** About Area End *****/
+
+/****** Services Area *****/
+#services{
+  padding: 70px 0;
+  background: #EFF2F3;
+}
+
+#services h3{
+  font-size: 16px;
+  font-weight: 300;
+  color: #999;
+}
+
+#services h2{
+  font-size: 34px;
+  font-weight: 600;
+  color: #675e5e;
+  line-height: 40px;
+  margin-top: 30px; 
+}
+
+#services .single-service{
+  /*background: #fff;*/
+  padding: 30px;
+  border: 1px solid #ddd;
+  color: #333;
+  transition: all 0.4s;
+}
+
+#services .single-service:hover{
+  background: #3AAA6E;
+  color: #fff !important;
+}
+
+#services .single-service img{
+    filter: brightness(0.7);
+}
+
+#services .single-service h4{
+    /*color: #333;*/
+    font-size: 26px;
+    font-weight: 300;
+}
+
+#services .single-service:hover img{
+  filter: none;
+}
+
+/****** About Area End *****/
+
+/****** Footer Area *****/
+
+footer{
+  background: #DAE2E5;
+}
+footer .footer-top h4{
+  font-family: 'Big Shoulders Stencil Text', cursive;
+  font-size: 26px;
+  color: #1B1D1D;
+  margin-bottom: 40px;
+  text-transform: uppercase;
+}
+
+footer .footer-top p{
+  margin: 0;
+}
+
+footer .footer-top a{
+    text-decoration: none;
+    color: #333;
+    font-size: 17px;
+    font-weight: 300;
+    transition: all 0.4s;
+}
+
+footer .footer-top a:hover{
+    color: #3AAA6E;
+}
+
+footer .footer-top .social-links{
+    margin-top: 18px;
+}
+
+footer .footer-top .social-links a:hover{
+    color: #3AAA6E;
+    transition: all 0.4s;
+}
+
+footer .footer-bottom{
+  text-align: right;
+  padding-bottom: 10px;
+}
+
+footer .footer-bottom p{
+  color: #333;
+  font-size: 12px;
+  font-weight: normal;
+}

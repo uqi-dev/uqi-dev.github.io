@@ -1,0 +1,20 @@
+<svg id="software-development" xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <g id="XMLID_180_">
+    <rect id="XMLID_204_" width="60" height="60" fill="#fff" opacity="0"/>
+    <g id="XMLID_181_" transform="translate(9.85 13.4)">
+      <path id="XMLID_200_" d="M59.2,26.8H20.5a.79.79,0,0,0-.8.8V59.15a.79.79,0,0,0,.8.8H59.2a.79.79,0,0,0,.8-.8V27.65A.833.833,0,0,0,59.2,26.8Zm-.85,1.65V33.4h-37V28.45Zm-37,29.9V35.05h37v23.3Z" transform="translate(-19.7 -26.8)" fill="#fff"/>
+      <path id="XMLID_197_" d="M38,51.6H31.4a.79.79,0,0,0-.8.8v6.65a.79.79,0,0,0,.8.8H38a.79.79,0,0,0,.8-.8V52.4A.79.79,0,0,0,38,51.6Zm-.85,6.65H32.2v-5h4.95Z" transform="translate(-25.15 -39.2)" fill="#fff"/>
+      <path id="XMLID_194_" d="M52.5,59.9h6.6a.79.79,0,0,0,.8-.8V52.4a.79.79,0,0,0-.8-.8H52.5a.79.79,0,0,0-.8.8v6.65A.8.8,0,0,0,52.5,59.9Zm.8-6.65h4.95v5H53.3Z" transform="translate(-35.7 -39.2)" fill="#fff"/>
+      <path id="XMLID_191_" d="M73.6,59.9h6.6a.79.79,0,0,0,.8-.8V52.4a.79.79,0,0,0-.8-.8H73.6a.79.79,0,0,0-.8.8v6.65A.8.8,0,0,0,73.6,59.9Zm.8-6.65h4.95v5H74.4Z" transform="translate(-46.25 -39.2)" fill="#fff"/>
+      <path id="XMLID_190_" d="M38,72.4H31.4a.8.8,0,1,0,0,1.6H38a.8.8,0,1,0,0-1.6Z" transform="translate(-25.15 -49.6)" fill="#fff"/>
+      <path id="XMLID_189_" d="M38,78.5H31.4a.8.8,0,1,0,0,1.6H38a.8.8,0,1,0,0-1.6Z" transform="translate(-25.15 -52.65)" fill="#fff"/>
+      <path id="XMLID_188_" d="M59.2,72.4H52.6a.8.8,0,1,0,0,1.6h6.6a.8.8,0,1,0,0-1.6Z" transform="translate(-35.75 -49.6)" fill="#fff"/>
+      <path id="XMLID_187_" d="M59.2,78.5H52.6a.8.8,0,1,0,0,1.6h6.6a.8.8,0,1,0,0-1.6Z" transform="translate(-35.75 -52.65)" fill="#fff"/>
+      <path id="XMLID_186_" d="M80.4,72.4H73.8a.8.8,0,1,0,0,1.6h6.6a.8.8,0,0,0,0-1.6Z" transform="translate(-46.35 -49.6)" fill="#fff"/>
+      <path id="XMLID_185_" d="M80.4,78.5H73.8a.8.8,0,1,0,0,1.6h6.6a.8.8,0,0,0,0-1.6Z" transform="translate(-46.35 -52.65)" fill="#fff"/>
+      <path id="XMLID_184_" d="M31.4,35.1h.4a.8.8,0,0,0,0-1.6h-.4a.8.8,0,1,0,0,1.6Z" transform="translate(-25.15 -30.15)" fill="#fff"/>
+      <path id="XMLID_183_" d="M38.2,35.1h.4a.8.8,0,1,0,0-1.6h-.4a.8.8,0,0,0,0,1.6Z" transform="translate(-28.55 -30.15)" fill="#fff"/>
+      <path id="XMLID_182_" d="M45.1,35.1h.4a.8.8,0,1,0,0-1.6h-.4a.79.79,0,0,0-.8.8A.761.761,0,0,0,45.1,35.1Z" transform="translate(-32 -30.15)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
